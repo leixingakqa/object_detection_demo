@@ -1,0 +1,38 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>IMG_5833 copy.jpg</filename>
+	<path>/Users/lei.xing/Sites/AKQA/tensorflow_1/models/research/object_detection/images/raw/IMG_5833 copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>piano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>351</ymin>
+			<xmax>367</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>piano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>373</xmin>
+			<ymin>257</ymin>
+			<xmax>473</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>
