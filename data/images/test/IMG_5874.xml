@@ -1,13 +1,13 @@
 <annotation>
 	<folder>raw</folder>
-	<filename>15868969-piano-doodle-style.jpg</filename>
-	<path>/Users/lei.xing/Sites/AKQA/tensorflow_1/models/research/object_detection/images/raw/15868969-piano-doodle-style.jpg</path>
+	<filename>IMG_5874.jpg</filename>
+	<path>/Users/lei.xing/Sites/AKQA/tensorflow_1/models/research/object_detection/images/raw/IMG_5874.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>600</width>
+		<height>800</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>12</xmin>
-			<ymin>23</ymin>
-			<xmax>632</xmax>
-			<ymax>387</ymax>
+			<xmin>50</xmin>
+			<ymin>323</ymin>
+			<xmax>465</xmax>
+			<ymax>653</ymax>
 		</bndbox>
 	</object>
 </annotation>

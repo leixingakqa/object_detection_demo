@@ -1,14 +1,14 @@
 <annotation>
 	<folder>raw</folder>
-	<filename>education-64-512.jpg</filename>
-	<path>/Users/lei.xing/Sites/AKQA/tensorflow_1/models/research/object_detection/images/raw/education-64-512.jpg</path>
+	<filename>IMG_5879.jpg</filename>
+	<path>/Users/lei.xing/Sites/AKQA/tensorflow_1/models/research/object_detection/images/raw/IMG_5879.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
-		<depth>1</depth>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>55</xmin>
-			<ymin>132</ymin>
-			<xmax>723</xmax>
-			<ymax>465</ymax>
+			<ymin>266</ymin>
+			<xmax>473</xmax>
+			<ymax>630</ymax>
 		</bndbox>
 	</object>
 </annotation>

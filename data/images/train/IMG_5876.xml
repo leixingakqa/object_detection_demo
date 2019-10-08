@@ -1,13 +1,13 @@
 <annotation>
 	<folder>raw</folder>
-	<filename>IMG_5842 copy.jpg</filename>
-	<path>/Users/lei.xing/Sites/AKQA/tensorflow_1/models/research/object_detection/images/raw/IMG_5842 copy.jpg</path>
+	<filename>IMG_5876.jpg</filename>
+	<path>/Users/lei.xing/Sites/AKQA/tensorflow_1/models/research/object_detection/images/raw/IMG_5876.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>600</width>
+		<height>800</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>36</xmin>
-			<ymin>77</ymin>
-			<xmax>677</xmax>
-			<ymax>461</ymax>
+			<xmin>18</xmin>
+			<ymin>220</ymin>
+			<xmax>545</xmax>
+			<ymax>560</ymax>
 		</bndbox>
 	</object>
 </annotation>

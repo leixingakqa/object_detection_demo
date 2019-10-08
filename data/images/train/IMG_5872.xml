@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>IMG_5872.jpg</filename>
+	<path>/Users/lei.xing/Sites/AKQA/tensorflow_1/models/research/object_detection/images/raw/IMG_5872.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>piano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>45</ymin>
+			<xmax>580</xmax>
+			<ymax>676</ymax>
+		</bndbox>
+	</object>
+</annotation>
